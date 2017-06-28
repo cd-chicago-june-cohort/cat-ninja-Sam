@@ -1,0 +1,18 @@
+* {
+    margin:0;
+    padding:0;
+    background: yellowgreen;
+}
+
+div {
+    width: 420px;
+    height: 120px;
+    border: 1px solid orange;
+    margin: auto;
+    margin-bottom: 2px;
+}
+
+img {
+    width: 420px;
+    height: 120px;
+}
